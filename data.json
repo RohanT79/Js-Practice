@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "price": 25.99,
+      "discount": 5,
+      "stock": 150,
+      "description": "Ergonomic wireless mouse with USB receiver.",
+      "ratings": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 45,
+      "discount": 10,
+      "stock": 80,
+      "description": "Portable Bluetooth speaker with rich sound.",
+      "ratings": 4.8
+    },
+    {
+      "id": 4,
+      "name": "Running Shoes",
+      "category": "Footwear",
+      "price": 59.99,
+      "discount": 20,
+      "stock": 120,
+      "description": "Lightweight running shoes with comfortable sole.",
+      "ratings": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Leather Wallet",
+      "category": "Accessories",
+      "price": 29.5,
+      "discount": 5,
+      "stock": 200,
+      "description": "Genuine leather wallet with multiple card slots.",
+      "ratings": 4.3
+    },
+    {
+      "id": 6,
+      "name": "Lenovo Laptop",
+      "category": "Electronics",
+      "price": 1800,
+      "discount": 25,
+      "stock": 700,
+      "description": "Macbook Laptop.",
+      "ratings": 5
+    },
+    {
+      "id": 7,
+      "name": "Peaky",
+      "category": "Toys",
+      "price": 100,
+      "discount": 25,
+      "stock": 700,
+      "description": "Macbook",
+      "ratings": 5
+    }
+  ]
+}
